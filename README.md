@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kenny-19
 - 👀 I’m interested in Programming by the I.A
-- 🌱 I’m currently learning the PHP and C
+- 🌱 I’m currently learning the Flutter and Python
 - 💞️ I’m looking to collaborate on some projects to make me a good programmer 
 - 📫 How to reach me to my address Mail kennymoulagang1@gmail.com
 
